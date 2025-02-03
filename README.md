@@ -9,4 +9,4 @@ First things to do after installing the Ultra HDR module
 1. Delete the file at /data/adb/modules/iUnlocker-Sapphire/system.prop (if it is there)
 2. Delete the file at /data/adb/modules_update/iUnlocker-Sapphire/system.prop
 3. Delete the file at /data/local/tmp/system.prop
-And after deleteing those files you can now reboot!!!
+And after deleteing those files you can now reboot
